@@ -6,7 +6,7 @@
 - [LinkedIn](https://www.linkedin.com/in/jessamyn-medina-triana-b96a53211/)
 - [Kaggle](https://www.kaggle.com/jessamynmedina) 
 - Email: jessamynmedina@gmail.com
-- ig: jessmetri.py
+- [ig] (https://www.instagram.com/jessmetri.py/?hl=es-la)
 - 😄 Pronouns: She/Her  
 
 <!---
