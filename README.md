@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jessamyn Medina @jessmetri  
-- 👀 I’m interested in **aquaculture, bioeconomy, and data science**.  
+- 👀 I’m interested in aquaculture and data analytics.
 - 🌱 I’m currently learning **Python, SQL, and business intelligence**.  
 - 💞️ I’m looking to collaborate on **projects related to aquaculture sustainability, bioeconomic modeling, and data analysis**.  
 - 📫 How to reach me:
