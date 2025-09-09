@@ -1,3 +1,5 @@
+Data Analytics Enthusiast | Bioeconomía 
+
 Apasionada por la intersección entre la acuicultura, la sostenibilidad y el análisis de datos.
 Actualmente estudiante de Doctorado en Bioeconomía Pesquera y Acuícola y en proceso de transición hacia el área de Data Analytics.
 
