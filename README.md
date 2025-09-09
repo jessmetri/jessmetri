@@ -11,10 +11,7 @@ Actualmente estudiante de Doctorado en Bioeconomía Pesquera y Acuícola y en pr
 
 🤝 Abierta a oportunidades de colaboración en equipos multidisciplinarios.
 
-🌐 Conecta conmigo
 
-LinkedIn
-https://www.linkedin.com/in/jessamyn-medina-triana-b96a53211/
 📧 jessamynmedina@gmail.com
 <!---
 jessmetri/jessmetri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
